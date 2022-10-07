@@ -350,7 +350,8 @@ color: #191c32;
 .Sotial-network {
 	display: flex;
 	justify-content: space-around;
-	width: 200px;	
+	width: 250px;
+	font-size: 25px;	
 }
 
 .conso  img{
